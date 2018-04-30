@@ -2862,11 +2862,11 @@
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #adadad;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: 		;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
@@ -3307,6 +3307,11 @@
 
 			#header.alt.style6 .logo strong {
 				color: #87c5a4;
+
+			}
+			#header.alt.style7 .logo strong {
+				color: #eeeeee;
+				
 			}
 
 		body.is-loading #header.alt {
@@ -3521,11 +3526,11 @@
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #6fc3de;
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #37a6cb;
 		}
 
 		#banner.style3:after {
@@ -3542,6 +3547,10 @@
 
 		#banner.style6:after {
 			background-color: #87c5a4;
+		}
+
+		#banner.style7:after {
+			background-color: #adadad;
 		}
 
 		body.is-loading #banner:after {
