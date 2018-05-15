@@ -2866,7 +2866,7 @@
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: 		;
+				background-color: #ec8d81;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
@@ -3294,7 +3294,7 @@
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #f2624f;
 			}
 
 			#header.alt.style4 .logo strong {
